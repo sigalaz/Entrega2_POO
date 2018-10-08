@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bitmon.cs" />
+    <Compile Include="HabEspeciales.cs" />
     <Compile Include="Jugador.cs" />
+    <Compile Include="Naturaleza.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
