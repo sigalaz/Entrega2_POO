@@ -1,2 +1,0 @@
-C:\Users\sebai\source\repos\POO\Entrega2_POO\obj\Debug\Entrega2_POO.csprojAssemblyReference.cache
-C:\Users\sebai\source\repos\POO\Entrega2_POO\obj\Debug\Entrega2_POO.csproj.CoreCompileInputs.cache
