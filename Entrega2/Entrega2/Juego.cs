@@ -8,6 +8,9 @@ namespace Entrega2
 {
     class Juego
     {
+        List<Jugador> jugadores;
+
+        
         
 
         static void Main(string[] args)
