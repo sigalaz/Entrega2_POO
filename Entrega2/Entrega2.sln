@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entrega2", "Entrega2\Entrega2.csproj", "{E02C9190-6B9B-43B2-A96E-E7D63BE4B12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02C9190-6B9B-43B2-A96E-E7D63BE4B12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02C9190-6B9B-43B2-A96E-E7D63BE4B12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02C9190-6B9B-43B2-A96E-E7D63BE4B12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02C9190-6B9B-43B2-A96E-E7D63BE4B12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {158ACC48-8061-4659-8A0A-91BF879DC607}
+	EndGlobalSection
+EndGlobal
